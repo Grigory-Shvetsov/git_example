@@ -1,2 +1,4 @@
+from hi imort hi
+
 def hello():
-    print("Hello, World!")
+    print(hi())
